@@ -1,29 +1,29 @@
 [
   {
     "caption": {
-      "h2": "AutoMarca",
-      "p": "Logo de marca autoreferente junto a su uso."
+      "h2": "Proyectos Editoriales",
+      "p": "Comunicar ideas a través de un mensaje visual potente e innovador. Crear piezas gráficas para diversos públicos."
     },
     "imgSrc": "assets/img/portafolio_1.jpg"
   },
   {
     "caption": {
-      "h2": "Wild Gummies",
-      "p": "Producto nuevo junto a marca en base a proteínas."
+      "h2": "Proyectos Textiles",
+      "p": "Creación de materiales, ideas y estructuras. Elaboración de productos para la industria textil."
     },
     "imgSrc": "assets/img/portafolio_2.jpg"
   },
   {
     "caption": {
-      "h2": "Sup",
-      "p": "Identidad de marca para antiresaca."
+      "h2": "Proyectos de Servicios",
+      "p": "Es un hoja de ruta que comprende los pasos y procesos que un cliente de un servicio realizará al utilizarlo."
     },
     "imgSrc": "assets/img/portafolio_3.jpg"
   },
   {
     "caption": {
-      "h2": "Efelamp",
-      "p": "Lampara de niños industrializable con forma de elefante."
+      "h2": "Proyectos de Productos",
+      "p": "Desarrollo de productos fabricados, dispositivos y servicios, prestando atención a su forma y su función."
     },
     "imgSrc": "img/portafolio_4.jpg"
   },
