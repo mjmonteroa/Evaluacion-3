@@ -1,0 +1,30 @@
+[
+  {
+    "caption": {
+      "h2": "AutoMarca",
+      "p": "Logo de marca autoreferente junto a su uso."
+    },
+    "imgSrc": "assets/img/portafolio_1.jpg"
+  },
+  {
+    "caption": {
+      "h2": "Wild Gummies",
+      "p": "Producto nuevo junto a marca en base a proteínas."
+    },
+    "imgSrc": "assets/img/portafolio_2.jpg"
+  },
+  {
+    "caption": {
+      "h2": "Sup",
+      "p": "Identidad de marca para antiresaca."
+    },
+    "imgSrc": "assets/img/portafolio_3.jpg"
+  },
+  {
+    "caption": {
+      "h2": "Efelamp",
+      "p": "Lampara de niños industrializable con forma de elefante."
+    },
+    "imgSrc": "img/portafolio_4.jpg"
+  },
+]
